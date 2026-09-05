@@ -1,0 +1,604 @@
+{
+  "people": [
+    {
+      "name": "Leonardo da Vinci",
+      "field": ["arte", "ciência"],
+      "period": "Renascimento",
+      "country": "Itália"
+    },
+    {
+      "name": "Michelangelo",
+      "field": ["arte", "arquitetura"],
+      "period": "Renascimento",
+      "country": "Itália"
+    },
+    {
+      "name": "Rafael",
+      "field": ["arte"],
+      "period": "Renascimento",
+      "country": "Itália"
+    },
+    {
+      "name": "Sandro Botticelli",
+      "field": ["arte"],
+      "period": "Renascimento",
+      "country": "Itália"
+    },
+    {
+      "name": "Caravaggio",
+      "field": ["arte"],
+      "period": "Barroco",
+      "country": "Itália"
+    },
+    {
+      "name": "Rembrandt",
+      "field": ["arte"],
+      "period": "Barroco",
+      "country": "Países Baixos"
+    },
+    {
+      "name": "Johannes Vermeer",
+      "field": ["arte"],
+      "period": "Barroco",
+      "country": "Países Baixos"
+    },
+    {
+      "name": "Diego Velázquez",
+      "field": ["arte"],
+      "period": "Barroco",
+      "country": "Espanha"
+    },
+    {
+      "name": "Francisco de Goya",
+      "field": ["arte"],
+      "period": "Romantismo",
+      "country": "Espanha"
+    },
+    {
+      "name": "Édouard Manet",
+      "field": ["arte"],
+      "period": "Modernismo",
+      "country": "França"
+    },
+    {
+      "name": "Claude Monet",
+      "field": ["arte"],
+      "period": "Impressionismo",
+      "country": "França"
+    },
+    {
+      "name": "Edgar Degas",
+      "field": ["arte"],
+      "period": "Impressionismo",
+      "country": "França"
+    },
+    {
+      "name": "Pierre-Auguste Renoir",
+      "field": ["arte"],
+      "period": "Impressionismo",
+      "country": "França"
+    },
+    {
+      "name": "Vincent van Gogh",
+      "field": ["arte"],
+      "period": "Pós-impressionismo",
+      "country": "Países Baixos"
+    },
+    {
+      "name": "Paul Cézanne",
+      "field": ["arte"],
+      "period": "Pós-impressionismo",
+      "country": "França"
+    },
+    {
+      "name": "Pablo Picasso",
+      "field": ["arte"],
+      "period": "Modernismo",
+      "country": "Espanha"
+    },
+    {
+      "name": "Henri Matisse",
+      "field": ["arte"],
+      "period": "Modernismo",
+      "country": "França"
+    },
+    {
+      "name": "Salvador Dalí",
+      "field": ["arte"],
+      "period": "Surrealismo",
+      "country": "Espanha"
+    },
+    {
+      "name": "Frida Kahlo",
+      "field": ["arte"],
+      "period": "Modernismo",
+      "country": "México"
+    },
+    {
+      "name": "Georgia O'Keeffe",
+      "field": ["arte"],
+      "period": "Modernismo",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "Andy Warhol",
+      "field": ["arte"],
+      "period": "Pop Art",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "Jackson Pollock",
+      "field": ["arte"],
+      "period": "Expressionismo Abstrato",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "Tarsila do Amaral",
+      "field": ["arte"],
+      "period": "Modernismo",
+      "country": "Brasil"
+    },
+    {
+      "name": "Anita Malfatti",
+      "field": ["arte"],
+      "period": "Modernismo",
+      "country": "Brasil"
+    },
+    {
+      "name": "Candido Portinari",
+      "field": ["arte"],
+      "period": "Modernismo",
+      "country": "Brasil"
+    },
+    {
+      "name": "Aleijadinho",
+      "field": ["arte", "escultura"],
+      "period": "Barroco",
+      "country": "Brasil"
+    },
+    {
+      "name": "Aristóteles",
+      "field": ["filosofia", "política"],
+      "period": "Antiguidade",
+      "country": "Grécia"
+    },
+    {
+      "name": "Platão",
+      "field": ["filosofia", "política"],
+      "period": "Antiguidade",
+      "country": "Grécia"
+    },
+    {
+      "name": "Sócrates",
+      "field": ["filosofia"],
+      "period": "Antiguidade",
+      "country": "Grécia"
+    },
+    {
+      "name": "Confúcio",
+      "field": ["filosofia", "política"],
+      "period": "Antiguidade",
+      "country": "China"
+    },
+    {
+      "name": "Santo Agostinho",
+      "field": ["filosofia", "religião"],
+      "period": "Antiguidade tardia",
+      "country": "Norte da África"
+    },
+    {
+      "name": "Maquiavel",
+      "field": ["filosofia", "política"],
+      "period": "Renascimento",
+      "country": "Itália"
+    },
+    {
+      "name": "Thomas Hobbes",
+      "field": ["filosofia", "política"],
+      "period": "Idade Moderna",
+      "country": "Inglaterra"
+    },
+    {
+      "name": "John Locke",
+      "field": ["filosofia", "política"],
+      "period": "Iluminismo",
+      "country": "Inglaterra"
+    },
+    {
+      "name": "Jean-Jacques Rousseau",
+      "field": ["filosofia", "política"],
+      "period": "Iluminismo",
+      "country": "Genebra"
+    },
+    {
+      "name": "Voltaire",
+      "field": ["filosofia", "literatura"],
+      "period": "Iluminismo",
+      "country": "França"
+    },
+    {
+      "name": "Immanuel Kant",
+      "field": ["filosofia"],
+      "period": "Iluminismo",
+      "country": "Prússia"
+    },
+    {
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "field": ["filosofia"],
+      "period": "Idealismo alemão",
+      "country": "Alemanha"
+    },
+    {
+      "name": "Karl Marx",
+      "field": ["filosofia", "política", "economia"],
+      "period": "Século XIX",
+      "country": "Alemanha"
+    },
+    {
+      "name": "Friedrich Nietzsche",
+      "field": ["filosofia"],
+      "period": "Século XIX",
+      "country": "Alemanha"
+    },
+    {
+      "name": "Simone de Beauvoir",
+      "field": ["filosofia", "literatura"],
+      "period": "Século XX",
+      "country": "França"
+    },
+    {
+      "name": "Hannah Arendt",
+      "field": ["filosofia", "política"],
+      "period": "Século XX",
+      "country": "Alemanha"
+    },
+    {
+      "name": "Michel Foucault",
+      "field": ["filosofia", "história"],
+      "period": "Século XX",
+      "country": "França"
+    },
+    {
+      "name": "Nelson Mandela",
+      "field": ["política", "direitos humanos"],
+      "period": "Século XX",
+      "country": "África do Sul"
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "field": ["política", "direitos humanos"],
+      "period": "Século XX",
+      "country": "Índia"
+    },
+    {
+      "name": "Martin Luther King Jr.",
+      "field": ["política", "direitos humanos"],
+      "period": "Século XX",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "Rosa Parks",
+      "field": ["direitos humanos", "política"],
+      "period": "Século XX",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "Malcolm X",
+      "field": ["política", "direitos humanos"],
+      "period": "Século XX",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "Winston Churchill",
+      "field": ["política", "história"],
+      "period": "Século XX",
+      "country": "Reino Unido"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "field": ["política", "história"],
+      "period": "Século XX",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "Abraham Lincoln",
+      "field": ["política", "história"],
+      "period": "Século XIX",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "George Washington",
+      "field": ["política", "história"],
+      "period": "Século XVIII",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "Napoleão Bonaparte",
+      "field": ["política", "história", "militar"],
+      "period": "Idade Moderna",
+      "country": "França"
+    },
+    {
+      "name": "Júlio César",
+      "field": ["política", "história", "militar"],
+      "period": "Antiguidade",
+      "country": "Roma"
+    },
+    {
+      "name": "Cleópatra",
+      "field": ["política", "história"],
+      "period": "Antiguidade",
+      "country": "Egito"
+    },
+    {
+      "name": "Alexandre, o Grande",
+      "field": ["história", "militar"],
+      "period": "Antiguidade",
+      "country": "Macedônia"
+    },
+    {
+      "name": "Catarina, a Grande",
+      "field": ["política", "história"],
+      "period": "Idade Moderna",
+      "country": "Rússia"
+    },
+    {
+      "name": "Elizabeth I",
+      "field": ["política", "história"],
+      "period": "Idade Moderna",
+      "country": "Inglaterra"
+    },
+    {
+      "name": "Maria Antonieta",
+      "field": ["história", "política"],
+      "period": "Idade Moderna",
+      "country": "Áustria/França"
+    },
+    {
+      "name": "Rainha Vitória",
+      "field": ["política", "história"],
+      "period": "Século XIX",
+      "country": "Reino Unido"
+    },
+    {
+      "name": "Dom Pedro II",
+      "field": ["política", "história"],
+      "period": "Século XIX",
+      "country": "Brasil"
+    },
+    {
+      "name": "Tiradentes",
+      "field": ["história", "política"],
+      "period": "Brasil Colonial",
+      "country": "Brasil"
+    },
+    {
+      "name": "Zumbi dos Palmares",
+      "field": ["história", "resistência"],
+      "period": "Brasil Colonial",
+      "country": "Brasil"
+    },
+    {
+      "name": "José Bonifácio",
+      "field": ["política", "história"],
+      "period": "Brasil Imperial",
+      "country": "Brasil"
+    },
+    {
+      "name": "Getúlio Vargas",
+      "field": ["política", "história"],
+      "period": "Século XX",
+      "country": "Brasil"
+    },
+    {
+      "name": "Juscelino Kubitschek",
+      "field": ["política", "história"],
+      "period": "Século XX",
+      "country": "Brasil"
+    },
+    {
+      "name": "Ulysses Guimarães",
+      "field": ["política", "história"],
+      "period": "Século XX",
+      "country": "Brasil"
+    },
+    {
+      "name": "Dandara dos Palmares",
+      "field": ["história", "resistência"],
+      "period": "Brasil Colonial",
+      "country": "Brasil"
+    },
+    {
+      "name": "Maria Quitéria",
+      "field": ["história", "militar"],
+      "period": "Brasil Imperial",
+      "country": "Brasil"
+    },
+    {
+      "name": "Nise da Silveira",
+      "field": ["ciência", "arte", "psiquiatria"],
+      "period": "Século XX",
+      "country": "Brasil"
+    },
+    {
+      "name": "Machado de Assis",
+      "field": ["literatura"],
+      "period": "Realismo",
+      "country": "Brasil"
+    },
+    {
+      "name": "Clarice Lispector",
+      "field": ["literatura"],
+      "period": "Século XX",
+      "country": "Brasil"
+    },
+    {
+      "name": "Carlos Drummond de Andrade",
+      "field": ["literatura", "poesia"],
+      "period": "Modernismo",
+      "country": "Brasil"
+    },
+    {
+      "name": "Carolina Maria de Jesus",
+      "field": ["literatura"],
+      "period": "Século XX",
+      "country": "Brasil"
+    },
+    {
+      "name": "Jorge Amado",
+      "field": ["literatura"],
+      "period": "Modernismo",
+      "country": "Brasil"
+    },
+    {
+      "name": "William Shakespeare",
+      "field": ["literatura", "teatro"],
+      "period": "Renascimento",
+      "country": "Inglaterra"
+    },
+    {
+      "name": "Miguel de Cervantes",
+      "field": ["literatura"],
+      "period": "Idade Moderna",
+      "country": "Espanha"
+    },
+    {
+      "name": "Dante Alighieri",
+      "field": ["literatura", "poesia"],
+      "period": "Idade Média",
+      "country": "Itália"
+    },
+    {
+      "name": "Homero",
+      "field": ["literatura", "poesia"],
+      "period": "Antiguidade",
+      "country": "Grécia"
+    },
+    {
+      "name": "Virginia Woolf",
+      "field": ["literatura"],
+      "period": "Modernismo",
+      "country": "Reino Unido"
+    },
+    {
+      "name": "Gabriel García Márquez",
+      "field": ["literatura"],
+      "period": "Século XX",
+      "country": "Colômbia"
+    },
+    {
+      "name": "Leo Tolstói",
+      "field": ["literatura"],
+      "period": "Século XIX",
+      "country": "Rússia"
+    },
+    {
+      "name": "Fyodor Dostoevsky",
+      "field": ["literatura"],
+      "period": "Século XIX",
+      "country": "Rússia"
+    },
+    {
+      "name": "Mary Shelley",
+      "field": ["literatura"],
+      "period": "Romantismo",
+      "country": "Reino Unido"
+    },
+    {
+      "name": "Ada Lovelace",
+      "field": ["ciência", "computação"],
+      "period": "Século XIX",
+      "country": "Reino Unido"
+    },
+    {
+      "name": "Marie Curie",
+      "field": ["ciência"],
+      "period": "Século XX",
+      "country": "Polônia/França"
+    },
+    {
+      "name": "Albert Einstein",
+      "field": ["ciência", "física"],
+      "period": "Século XX",
+      "country": "Alemanha/Suíça"
+    },
+    {
+      "name": "Isaac Newton",
+      "field": ["ciência", "física"],
+      "period": "Idade Moderna",
+      "country": "Inglaterra"
+    },
+    {
+      "name": "Charles Darwin",
+      "field": ["ciência", "biologia"],
+      "period": "Século XIX",
+      "country": "Reino Unido"
+    },
+    {
+      "name": "Galileu Galilei",
+      "field": ["ciência", "astronomia"],
+      "period": "Idade Moderna",
+      "country": "Itália"
+    },
+    {
+      "name": "Nikola Tesla",
+      "field": ["ciência", "engenharia"],
+      "period": "Século XIX/XX",
+      "country": "Sérvia/Estados Unidos"
+    },
+    {
+      "name": "Thomas Edison",
+      "field": ["ciência", "engenharia"],
+      "period": "Século XIX",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "Alan Turing",
+      "field": ["ciência", "computação"],
+      "period": "Século XX",
+      "country": "Reino Unido"
+    },
+    {
+      "name": "Stephen Hawking",
+      "field": ["ciência", "física"],
+      "period": "Século XX",
+      "country": "Reino Unido"
+    },
+    {
+      "name": "Katherine Johnson",
+      "field": ["ciência", "matemática", "astronáutica"],
+      "period": "Século XX",
+      "country": "Estados Unidos"
+    },
+    {
+      "name": "Santos Dumont",
+      "field": ["ciência", "aviação"],
+      "period": "Século XX",
+      "country": "Brasil"
+    },
+    {
+      "name": "Oswaldo Cruz",
+      "field": ["ciência", "medicina"],
+      "period": "Século XX",
+      "country": "Brasil"
+    },
+    {
+      "name": "César Lattes",
+      "field": ["ciência", "física"],
+      "period": "Século XX",
+      "country": "Brasil"
+    },
+    {
+      "name": "Pelé",
+      "field": ["esporte"],
+      "period": "Século XX",
+      "country": "Brasil"
+    },
+    {
+      "name": "Ayrton Senna",
+      "field": ["esporte"],
+      "period": "Século XX",
+      "country": "Brasil"
+    }
+  ]
+}
