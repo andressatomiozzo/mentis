@@ -1,4 +1,5 @@
 import React from "react";
+import "./App.css"
 
 type IPerson = {
   name: string;
@@ -34,21 +35,25 @@ const App = () => {
   }, []);
 
   const handleClick = () => {
-    const prizeDraw = Math.floor(Math.random() * 101)
-    if(people) setPerson(people.people[prizeDraw]);
-    console.log("oi", person)
+    const prizeDraw = Math.floor(Math.random() * 101);
+    if (people) setPerson(people.people[prizeDraw]);
   };
 
   return (
-    <div>
-      {!person ? (
-        <button onClick={handleClick}>Escolher um personagem</button>
-      ) : (
-        <>
-          <h1>{person.name}</h1>
-          <button onClick={handleClick}>Escolher outro personagem</button>
-        </>
-      )}
+    <div className="wrapper">
+      <main className="content">
+        {error && <p className="errorContent">Houve um erro na busca dos dados, tente mais tarde</p>}
+        {loading && <div className="loading"></div>}
+        {person && (
+          <div className="personContent">
+            <h1>{person.name}</h1>
+            <p>Área: {person.field.join(" e ")}</p>
+            <p>País: {person.country}</p>
+            <p>Período: {person.period}</p>
+          </div>
+        )}
+        <button onClick={handleClick} className="button">Escolher {!person ? "um" : "outro"} personagem</button>
+      </main>
     </div>
   );
 };
