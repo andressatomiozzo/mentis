@@ -1,75 +1,75 @@
-# React + TypeScript + Vite
+# 📌 Mentis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sorteio aleatório de personagens da história importantes para a arte, cinema, música, política, etc para que você possa pesquisar sobre e ampliar o seu leque de comunicação.
 
-Currently, two official plugins are available:
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologias utilizadas
 
-## React Compiler
+* HTML 5
+* CSS 3
+* TypeScript
+* React
+* Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<br>
 
-## Expanding the ESLint configuration
+## 🎯 Funcionalidades
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+* [ ] Sorteio aleatório de pessoas importantes da história
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+<br>
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## 📸 Preview
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+Em desenvolvimento
 
+<br>
+
+<!-- ## 👤 Como interagir com o projeto -->
+
+<!-- ADICIONAR O LINK DO DEPLOY -->
+<!-- Acesse o [Link](https://)  -->
+
+<br>
+
+## ⚙️ Como rodar o projeto
+
+```bash
+# Clonar o repositório
+git clone https://github.com/andressatomiozzo/mentis.git
+
+# Instalar dependências
+npm install
+
+# Rodar o projeto
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://npmx.dev/package/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://npmx.dev/package/eslint-plugin-react-dom) for React-specific lint rules:
+<br>
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+## 🧠 Aprendizados
 
-```
+* Trabalhar com estado no React
+* Manipulação de DOM
+* Consumo de API
+* Organização de código
+
+<br>
+
+## 🛠️ Melhorias futuras
+
+* [ ] Integração com backend para que seja possível realizar login e comentários sobre o tópico.
+
+<br>
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
+
+<br>
+
+# ⭐ Contribuição
+
+Sinta-se livre para contribuir, abrir issues ou sugerir melhorias para o projeto.
