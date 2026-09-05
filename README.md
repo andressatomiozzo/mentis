@@ -22,14 +22,13 @@ Sorteio aleatório de personagens da história importantes para a arte, cinema, 
 
 ## 📸 Preview
 
-Em desenvolvimento
+![preview](./public/preview.png)
 
 <br>
 
-<!-- ## 👤 Como interagir com o projeto -->
+## 👤 Como interagir com o projeto
 
-<!-- ADICIONAR O LINK DO DEPLOY -->
-<!-- Acesse o [Link](https://)  -->
+Acesse o [Link](https://mentis-lemon.vercel.app/) 
 
 <br>
 
