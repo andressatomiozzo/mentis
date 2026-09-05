@@ -36,7 +36,8 @@
 }
 
 .personContent,
-.errorContent {
+.errorContent,
+.loadingContent {
   min-width: 25rem;
   padding: 2rem;
   border-radius: 2rem;
@@ -48,7 +49,6 @@
     height: auto;
   }
 }
-
 
 .button {
   padding: 1rem 2rem;
@@ -62,5 +62,21 @@
 .button:hover {
   background-color: rgb(7, 135, 135);
   border-color: rgb(131, 229, 229);
-  color: aliceblue;
+  color: rgb(237, 245, 252);
+}
+
+.loadingContent div {
+  width: 40px;
+  height: 40px;
+  margin: auto;
+  border-radius: 50%;
+  border: 5px solid rgb(7, 135, 135);
+  border-top-color: transparent;
+  animation: loading 1s linear infinite;
+}
+
+@keyframes loading {
+  to {
+    transform: rotate(360deg);
+  }
 }
