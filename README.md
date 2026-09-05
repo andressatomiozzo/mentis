@@ -1,6 +1,6 @@
 # 📌 Mentis
 
-Sorteio aleatório de personagens da história importantes para a arte, cinema, música, política, etc para que você possa pesquisar sobre e ampliar o seu leque de comunicação.
+Sorteio aleatório de personagens da história importantes para a arte, história, política, ciência e cultura para que você possa pesquisar sobre e ampliar o seu leque de comunicação.
 
 <br>
 
